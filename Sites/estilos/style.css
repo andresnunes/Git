@@ -1,0 +1,30 @@
+.Conteiner
+{
+	width:100%;
+        border: red Solid;
+}
+.Titulo{
+	border: 1px;
+	padding: 0px;
+	margin: 0px;
+}
+.Nome{
+	text-align: center ;
+	text-size: 20;
+	color: #565656;
+	border: Solid black;	
+	width: 50%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.Menu{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	border:blue solid;
+}
+.Menu li {
+	display:inline;
+	border: solid green;
+}
